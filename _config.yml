@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-remote_theme: wowthemesnet/mundana-theme-jekyll
+remote_theme: isboonto/mundana-theme-jekyll
 plugins:
   - jekyll-feed
 
