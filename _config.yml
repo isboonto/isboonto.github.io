@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: flexible-jekyll
+theme: isboonto/flexible-jekyll
 plugins:
   - jekyll-feed
 
